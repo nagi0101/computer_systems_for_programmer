@@ -19,7 +19,7 @@
 >❓  
 >컴퓨터가 어떻게 이진수를 저장하고 계산하는지 궁금하실겁니다. 하지만 그런 내용들은 이 시리즈에서 다루기에는 지나치게 하드웨어와 가깝다고 판단되어 다루지 않겠습니다. 컴퓨터가 이진수를 물리적으로 저장하고 계산하는 것은 하드웨어적으로 잘 추상화 되어서 우리가 물리적인 지식 없이도 컴퓨터를 이해할 수 있게 해줍니다. 그러나 정말로 컴퓨터의 작동을 밑바닥부터 이해하고 싶으시다면 아래의 두 책을 추천드립니다.
 >
->『*Code: The Hidden Language of Computer Hardware and Software*』 - Charles Petzold
+>『*Code: The Hidden Language of Computer Hardware and Software*』 - Charles Petzold  
 >『*The Elements of Computing Systems*』 - Noam Nisan, Shimon Schocken
 >
 >두 책 모두 『CODE』, 『밑바닥부터 만드는 컴퓨팅 시스템』이라는 제목으로 국내에 출간되었으며, 번역도 양호합니다. 부담없이 읽을 수 있는 난이도의 이론적인 설명을 원하시면 『CODE』를, 난이도는 있지만 실전적인 이해를 원하시면 『밑바닥부터 만드는 컴퓨팅 시스템』을 읽어보시는 것을 추천드립니다. 후자의 경우 [공식 사이트](https://www.nand2tetris.org/)도 있으니 살펴보시면 좋을 것입니다.
