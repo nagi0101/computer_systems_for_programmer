@@ -96,6 +96,6 @@
 | 01 | 프로그램? | [입문](./1-Introduction/README.md) | 비트(bit)와 컴파일 과정을 이해합니다 | [읽기](./1-Introduction/1-bit_and_compile/README.md) |
 | 02 | 컴퓨터는 어떻게 프로그램을 실행하지? | [입문](./1-Introduction/README.md) | 명령어의 실행 과정을 이해합니다 | [읽기](./1-Introduction/2-executing_program/README.md) |
 | 03 | 메모리가 CPU 따라가려다 다리 찢어집니다 | [입문](./1-Introduction/README.md) | 캐시 메모리와 메모리 계층 구조를 이해합니다. | [읽기](./1-Introduction/3-memory_hierachy/README.md) |
-| 04 | 운영체제 두둥등장! | [입문](./1-Introduction/README.md) | 하드웨어의 추상화, 프로세스, 가상 메모리, 파일 등의 개념을 이해합니다  | 읽기 |
+| 04 | 운영체제 두둥등장! | [입문](./1-Introduction/README.md) | 하드웨어의 추상화, 프로세스, 가상 메모리, 파일 등의 개념을 이해합니다  | [읽기](./1-Introduction/4-operating_system/README.md) |
 | 05 | 지적 개발을 위한 넓고 얕은 지식 | [입문](./1-Introduction/README.md) | 암달의 법칙, 병행성(Concurrency)과 병렬성(Parallelism), 추상화에 대해 이해합니다.  | 읽기 |
 |  | 작성중... |  |  |  |
